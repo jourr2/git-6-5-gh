@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x 1 ASUS 197121 0 Jul 11 23:45 ./
+drwxr-xr-x 1 ASUS 197121 0 Jul 11 23:36 ../
+drwxr-xr-x 1 ASUS 197121 0 Jul 11 23:37 .git/
+-rw-r--r-- 1 ASUS 197121 0 Jul 11 23:45 f1.txt
